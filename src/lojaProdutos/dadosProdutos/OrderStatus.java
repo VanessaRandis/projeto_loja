@@ -1,0 +1,12 @@
+package lojaProdutos.dadosProdutos;
+
+public enum OrderStatus {
+	PENDING_PAYMENT,
+	PROCESSING,
+	SHIPPED,
+	DELIVERED, 
+	RECEIVED;
+	
+
+
+}
